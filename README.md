@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Bookie Session Tracker Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/rezatakhti/Bookie-Privacy-Policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Last updated [January 1, 2020]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Bookie Session Tracker] respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application. Please read this Privacy Policy carefully.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. 
 
-### Markdown
+We reserve the right to make changes to this Privacy Policy at any time and for any reason.  We will alert you about any changes by updating the “Last updated” date of this Privacy Policy.  You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information Collection
 
-```markdown
-Syntax highlighted code block
+We do not any collect information about you. However, we do store app information on your phone. This includes setting preferences, and the collection of your past reading sessions. All information is stored locally on your phone, and is not collected or used by us in anyway.    
 
-# Header 1
-## Header 2
-### Header 3
+### Your Consent
 
-- Bulleted
-- List
+By using our app, you consent to our privacy policy.
 
-1. Numbered
-2. List
+### CONTACT US
 
-**Bold** and _Italic_ and `Code` text
+If you have questions or comments about this Privacy Policy, please email us at:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rezatakhti/Bookie-Privacy-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[gtakhti1375@yahoo.com]
